@@ -1,0 +1,6 @@
+[submodule "fyp_backend"]
+	path = fyp_backend
+	url = git@github.com:t-bowcock/fyp_backend.git
+[submodule "fyp_frontend"]
+	path = fyp_frontend
+	url = git@github.com:t-bowcock/fyp_frontend.git
