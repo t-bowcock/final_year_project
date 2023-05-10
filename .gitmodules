@@ -4,3 +4,6 @@
 [submodule "fyp_frontend"]
 	path = fyp_frontend
 	url = git@github.com:t-bowcock/fyp_frontend.git
+[submodule "xml_to_csv"]
+	path = xml_to_csv
+	url = git@github.com:t-bowcock/xml_to_csv.git
